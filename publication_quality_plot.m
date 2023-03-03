@@ -1,10 +1,10 @@
 clear;close all;clc;
 %%%%------------------------------------------------------------------------
 %  Author :  Subhadip Biswas
-%            subhadip.biswas@sheffield.ac.uk
 %            Research Associate
 %            Department of Physics and Astronomy
 %            University of Sheffield
+%            Email: subhadip.biswas@sheffield.ac.uk
 set(0,'DefaultAxesFontName', 'times new roman')
 set(0,'DefaultAxesFontSize', 25)
 set(0,'DefaultTextFontname', 'times new roman')
