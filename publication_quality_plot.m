@@ -15,13 +15,15 @@ set(0, 'DefaultAxesLineWidth', 2)
 x = linspace(0,10,1000);
 y = sin(pi*x);
 
+
+figure('Units', 'normalized', 'Position', [0.025,0.025,0.4,0.6]);
 plot(x,y,'LineWidth',3)
 hold on
 plot(x,x.*y,'LineWidth',3)
 
 xlabel('$x$','interpreter','latex')  
 ylabel('$f(x)$','interpreter','latex')
-
+ax=gca;
 legend({'$f(x)$','$x*f(x)$'},'interpreter','latex')
 xlim([0 10])
 ylim([-2 2])
