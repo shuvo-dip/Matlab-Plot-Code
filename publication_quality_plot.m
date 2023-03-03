@@ -1,7 +1,7 @@
 clear;close all;clc;
 %%%%------------------------------------------------------------------------
 %  Author :  Subhadip Biswas
-%            subhadip.biswas1993@gmail.com, subhadip.biswas@sheffield.ac.uk
+%            subhadip.biswas@sheffield.ac.uk
 %            Research Associate
 %            Department of Physics and Astronomy
 %            University of Sheffield
